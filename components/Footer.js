@@ -13,7 +13,7 @@ const Footer = () => {
               placeholder="Email address"
               className={styles.Input}
             />
-            <Image src={"/Images/submit.svg"} />
+            <Image src={"/Images/Submit.svg"} />
           </Col>
           <Col xl={2} xs={12} md={4} className={styles.Footermob}>
             <div className={styles.Footerleft}>
