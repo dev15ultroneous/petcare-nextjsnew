@@ -4,6 +4,9 @@
 .introDuction {
   padding: 6rem 0;
 }
+.mainRow {
+  align-items: center;
+}
 .introText {
   background: url("../public/Images/pinkbackground.svg") no-repeat;
   height: auto;

@@ -25,7 +25,7 @@ export default function Home() {
         <NavBar />
         <section className={styles.introDuction}>
           <Container fluid className={styles.contFluid}>
-            <Row>
+            <Row className={styles.mainRow}>
               <Col xl={6}>
                 <div
                   className={styles.introText}
