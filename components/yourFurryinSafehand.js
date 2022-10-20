@@ -34,7 +34,7 @@ const YourFurryinSafehand = () => {
           </Col>
           <Col xl={6} className={styles.safeHand}>
             <Image
-              src={"/Images/safehand.svg"}
+              src={"/Images/Safehand.svg"}
               className={styles.safeHand}
               img-fluid
             />
