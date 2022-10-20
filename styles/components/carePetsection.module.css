@@ -53,6 +53,7 @@
 .videoButton {
   position: relative;
   right: 3.9rem;
+  cursor: pointer;
 }
 .pagenatation {
   padding-left: 2.5rem;
