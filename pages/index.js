@@ -51,7 +51,7 @@ export default function Home() {
                     <Image src={"/Images/arrow.svg"} alt="arrow" />
 
                     <button id={styles.doItnow}> Do it Now...!!</button>
-                    <div class={styles.ldsSpinner}>
+                    <div className={styles.ldsSpinner}>
                       <div></div>
                       <div></div>
                       <div></div>
